@@ -54,6 +54,7 @@ searchForm.addEventListener("submit", async (e) => {
     return;
   }
 
+// DEBUG: Check value here
 // TODO: Review this logic
   searchResults.innerHTML = "<div class='spinner'>Loading ... </div>";
 
