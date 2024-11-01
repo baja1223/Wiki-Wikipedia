@@ -1,5 +1,6 @@
 const searchForm = document.getElementById("search-form");
 const searchInput = document.getElementById("search-input");
+// PERF: Potential performance improvement
 const searchResults = document.getElementById("search-results");
 
 // Theme toggler elements
