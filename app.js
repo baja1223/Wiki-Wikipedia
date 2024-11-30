@@ -39,6 +39,7 @@ function displayResults(results) {
 // DEBUG: Check value here
         ${urlLink}
         <p class="result-snippet">${result.snippet}</p>
+// FIXME: Needs error handling
         `;
 
     searchResults.appendChild(resultItme);
