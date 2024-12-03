@@ -15,4 +15,4 @@ Welcome to the Wiki Wikipedia Clone project! This web application is a simple cl
 
 ## license 
 [MIT]
-(https://choosalicense/mit/)
+
