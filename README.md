@@ -1,7 +1,7 @@
 # The Wiki Wikipedia
 
 ## introduction 
-Welcome to the Wiki Wikipedia Clone project! This web application is a simple clone of Wikipedia, built using HTML, CSS, and JavaScript. It allows users to search for articles and view their contents just like the real Wikipedia. The project fetches search results from this API. 
+Welcome to the Wiki Wikipedia Clone project! This web application is a simple clone of Wikipedia, built using HTML, CSS, and JavaScript. It allows users to search for articles and view their content just like Wikipedia. The project fetches search results from this API. 
 
 ## Features 
 1) Search Articles: Users can search for articles using keywords, and the application will display a list of relevant articles.
@@ -13,6 +13,11 @@ Welcome to the Wiki Wikipedia Clone project! This web application is a simple cl
 2) Search Results: After entering a search query, you'll see a list of relevant articles. Click on an article to view its contents.
 3) View Article: On the article page, you can read the entire article. If you are a registered user and logged in, you can also edit the article.
 
-## license 
-[MIT]
+## demo
+![Screenshot 21](https://github.com/user-attachments/assets/c555e7a7-4dee-489c-8995-cdfd6947aed4)
+
+
+ link (https://baja1223.github.io/Wiki-Wikipedia/)
+
+
 
