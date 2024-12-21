@@ -44,6 +44,7 @@ function displayResults(results) {
   });
 }
 
+// FIXME: Needs error handling
 searchForm.addEventListener("submit", async (e) => {
   e.preventDefault();
 
