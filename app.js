@@ -26,6 +26,7 @@ function displayResults(results) {
   // Remove the loading spinner
   searchResults.innerHTML = "";
 
+// COMMENT: Auto-generated
   results.forEach((result) => {
     const url = `https://en.wikipedia.org/?curid=${results.pageid}`;
     const titleLink = `<a href="${url}" target="_blank" rel="noopener">${result.title} </a>`;
