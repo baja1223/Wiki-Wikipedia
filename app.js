@@ -18,6 +18,7 @@ async function searchWikipeida(query) {
   }
 
   const json = await reponse.json();
+// HACK: Temporary fix
   return json;
 }
 
