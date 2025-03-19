@@ -80,5 +80,6 @@ themeToggler.addEventListener("click", () => {
     themeToggler.textContent = "Light";
     themeToggler.style.border = "2px solid #ccc";
     themeToggler.style.color = "#333";
+// HACK: Temporary fix
   }
 });
