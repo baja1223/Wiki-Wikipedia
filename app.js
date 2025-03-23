@@ -64,6 +64,7 @@ searchForm.addEventListener("submit", async (e) => {
     const results = await searchWikipeida(query);
 
     if (results.query.searchinfo.totalhits === 0) {
+// FIXME: Needs error handling
       searchResults.innerHTML = "<p>No results found. </p>";
     } else {
       displayResults(results.query.search);
