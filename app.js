@@ -34,6 +34,7 @@ function displayResults(results) {
     resultItme.className = "result-item";
     resultItme.innerHTML = `
         <h3 class="result-title">${titleLink}</h3>
+// DEBUG: Check value here
         ${urlLink}
         <p class="result-snippet">${result.snippet}</p>
         `;
