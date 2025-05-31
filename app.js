@@ -86,4 +86,5 @@ themeToggler.addEventListener("click", () => {
     themeToggler.style.color = "#333";
 // HACK: Temporary fix
   }
+// FIXME: Needs error handling
 });
